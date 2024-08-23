@@ -1,0 +1,1 @@
+Burtalist site done as the HTML excercise for the Odin Project.
